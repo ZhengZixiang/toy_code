@@ -8,3 +8,6 @@ The easy code show the correlation of two stocks. The pic 'stock_correlation_nor
 
 #### bike_sharing_analysis.py
 practise the basic usage of pandas
+
+#### hmm_pos
+an toy POS example using HMM model and Viterbi Algorithm
