@@ -10,4 +10,7 @@ The easy code show the correlation of two stocks. The pic 'stock_correlation_nor
 practise the basic usage of pandas
 
 #### hmm_pos
-an toy POS example using HMM model and Viterbi Algorithm
+an toy POS example using HMM model and Viterbi algorithm
+
+#### chinese_comment_sentiment_analysis
+an example using word2vec and SVM to classify pos or neg sentiment of Chinese comment
