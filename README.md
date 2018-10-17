@@ -21,5 +21,8 @@ It provide an word2vec model train example based on chinese wiki corpus. The raw
 #### sparkml_basic_example
 the test code about how to use spark.ml
 
+#### sparkmllib_recommendation_example
+The shell_example.scala is a MLlib-based recommendation example in interactive shell. The MovieLensALS is a complete recommendation Class to recommend movies using MovieLens dataset.
+
 #### mahout_recommendation_example
 It provide the basic example about using user-CF and item-CF algorithms to recommend items based on MovieLens and BookCrossing dataset.
