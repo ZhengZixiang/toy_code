@@ -1,4 +1,4 @@
-代码使用TensorFlow高阶API创建一个基于Estimator接口的TensorFlow模型，模型
+代码使用TensorFlow高阶API创建一个基于Estimator接口的TensorFlow模型，实现简单的文本分类。
 
 ## 运行代码
 下载数据后先建立语料字典
