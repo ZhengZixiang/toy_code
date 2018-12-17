@@ -1,8 +1,9 @@
 # toy_code
-> Write it just for my self.
+> Write it just for my self. My test code and toy code are saved here.
 
-My test code and toy code are saved here.
-
+| 代码 | 说明 |
+| :------: | :------: |
+| word_cnn | 基于TensorFlow高阶API Estimator实现经典CNN文本分类网络，内有`README.md`。 |
 ## stock_correlation.py
 The easy code show the correlation of two stocks. The pic 'stock_correlation_norm.jpg' is two stocks' chart.
 
@@ -21,7 +22,7 @@ an example using word2vec and SVM to classify pos or neg sentiment of Chinese co
 ## wiki_zh_word2vec
 It provide an word2vec model train example based on chinese wiki corpus. The raw wiki data can be downloaded from [this page](https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2). I also upload the trained model files to [BaiduNetdisk](https://pan.baidu.com/s/1Duf-1Y7nM9PbJY0MfxFn1w).
 
-# word_cnn
+## word_cnn
 基于TensorFlow高阶API Estimator实现经典CNN文本分类网络，内有`README.md`。
 
 ## sparkml_basic_example
