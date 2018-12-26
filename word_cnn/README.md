@@ -11,7 +11,7 @@ python model.py
 ```
 
 ## 数据集
-所使用的数据集为[DBPedia Ontology Classification Dataset](https://raw.githubusercontent.com/srhrshr/torchDatasets/master/dbpedia_csv.tar.gz)，目标是从DBPedia 2014数据集中对文本进行分类，共有14个互不重叠类别。每个类别随机选择了40,000个训练样本和5,000个测试样本。因此，总共有560,000个训练样本和70,000个测试样本。因此，总共有560
+所使用的数据集为[DBPedia Ontology Classification Dataset](https://raw.githubusercontent.com/srhrshr/torchDatasets/master/dbpedia_csv.tar.gz)，目标是从DBPedia 2014数据集中对文本进行分类，共有14个互不重叠类别。每个类别随机选择了40,000个训练样本和5,000个测试样本。因此，总共有560,000个训练样本和70,000个测试样本。
 
 ## 模型结构
 本代码参考经典的CNN文本分类模型实现，如下图所示。
