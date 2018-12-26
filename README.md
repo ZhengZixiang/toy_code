@@ -12,6 +12,6 @@
 | sparkmllib_recommendation_example | `shell_example.scala`里实现了基于MLlib进行推荐的Shell代码示例。`MovieLensALS`实现了使用MovieLens数据集进行推荐示例。 |
 | stock_correlation.py | The easy code show the correlation of two stocks. The pic 'stock_correlation_norm.jpg' is two stocks' chart. |
 | word_cnn | 基于TensorFlow高阶API Estimator实现经典CNN文本分类网络，内有`README.md`。 |
+| wide_n_deep_learning | 基于TensorFlow高阶API Estimator实现Wide & Deep Learning模型，内有`README.md`。 |
 | wiki_zh_word2vec | 提供了基于中文维基百科语料训练的word2vec模型。原始维基百科语料从[此处](https://dumps.wikimedia.org/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2)下载。我提供了已训练好的模型文件在[百度网盘](https://pan.baidu.com/s/1Duf-1Y7nM9PbJY0MfxFn1w)。 |
-| wide_n_deep_learning | 基于TensorFlow高阶API Estimator实现Wide & Deep Learning模型，内有`README.md` |
 | xgboost | 包含xgboost基于mushroom数据集的native和sklearn两种方式调用的练习代码。|
