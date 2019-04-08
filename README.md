@@ -4,6 +4,7 @@
 | 代码 | 说明 |
 | :------ | :------ |
 | bike_sharing_analysis.py | Pandas的基本使用示例代码。 |
+| bilstm_crf | 基于PyTorch实现的BiLSTM-CRF序列标注模型。 |
 | chinese_comment_sentiment_analysis | 使用word2vec和SVM实现正负面中文评论情感分类的示例代码。 |
 | hmm_pos | 使用HMM模型和维特比算法实现词性标注的简单代码。|
 | julyedu_recsys | 七月在线推荐系统实战课程相关代码。包括多臂老虎机MAB策略，word2vec skip-gram与cbow实现，MovieLens推荐，Wild & Deep Learning网络等代码。 |
